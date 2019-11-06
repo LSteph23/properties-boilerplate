@@ -3,55 +3,55 @@
       "id": 145,
       "name": "Charming Garden Space for Rent",
       "imageUrl": "https://github.com/LSteph23/properties-boilerplate/blob/master/images/garden1.jpg?raw=true",
-      "price": 50,
-      "priceCurrency": "USD $",
-      "lat": 48.884211,
-      "lng": 2.346890
+      "price": "$50",
+      "priceCurrency": " USD",
+      "lat": 47.576,
+      "lng": -122.164
     },
     {
       "id": 148,
       "name": "Outdoor Garden and Gazebo",
       "imageUrl": "https://github.com/LSteph23/properties-boilerplate/blob/master/images/garden2.jpg?raw=true",
-      "price": 75,
-      "priceCurrency": "USD $",
-      "lat": 48.885707,
-      "lng": 2.343543
+      "price": "$75",
+      "priceCurrency": " USD",
+      "lat": 47.5606,
+      "lng": -122.0015
     },
     {
       "id": 201,
       "name": "HUGE Professional Kitchen--Cook a Fabulous Thanksgiving Dinner Here!",
       "imageUrl": "https://github.com/LSteph23/properties-boilerplate/blob/master/images/kitchen3.jpg?raw=true",
-      "price": 100,
-      "priceCurrency": "USD $",
-      "lat": 48.885312,
-      "lng": 2.341225
+      "price": "$100",
+      "priceCurrency": " USD",
+      "lat": 47.6101,
+      "lng": -122.2015
     },
     {
       "id": 205,
       "name": "Private Lakefront Property with Dock",
       "imageUrl": "https://github.com/LSteph23/properties-boilerplate/blob/master/images/lakedock1.jpg?raw=true",
-      "price": 115,
-      "priceCurrency": "USD $",
-      "lat": 48.881840,
-      "lng": 2.343371
+      "price": "$115",
+      "priceCurrency": " USD",
+      "lat": 47.7237,
+      "lng": -122.4713
     },
     {
       "id": 210,
       "name": "Private Lake Access with Large Deck",
       "imageUrl": "https://github.com/LSteph23/properties-boilerplate/blob/master/images/lakefront00.jpg?raw=true",
-      "price": 85,
-      "priceCurrency": "USD $",
-      "lat": 48.888839,
-      "lng": 2.339208
+      "price": "$85",
+      "priceCurrency": " USD",
+      "lat": 47.6085,
+      "lng": -122.0878
     },
     {
       "id": 211,
       "name": "Large Sun-Deck and Lake Access",
       "imageUrl": "https://github.com/LSteph23/properties-boilerplate/blob/master/images/lakeview1.jpg?raw=true",
-      "price": 90,
-      "priceCurrency": "USD $",
-      "lat": 48.827855,
-      "lng": 2.350774
+      "price": "$90",
+      "priceCurrency": " USD",
+      "lat": 47.6215,
+      "lng": -122.25
     }
   ]
   
